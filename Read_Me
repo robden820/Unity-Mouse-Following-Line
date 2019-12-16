@@ -7,3 +7,5 @@ and each successive sphere follows the previous sphere. The shader colours the s
 in the screen.
 Sphere speed is based on a float multiplied by the spheres distance to it's target. This prevents spheres from becoming totally overlapped
 and remaining that way.
+
+Code is based on code from Building a Graph Tutorial by Jasper Flick https://catlikecoding.com/unity/tutorials/basics/building-a-graph/
